@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Sagar Nayak 👋
 
-<!--
-**alpha00045/alpha00045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
 
-Here are some ideas to get you started:
+- 🎓 MCA Student (2027)
+- 📊 Aspiring Data Analyst
+- 💻 Learning Python, SQL, Excel & Power BI
+- 📈 Passionate about Data Analytics & Business Intelligence
+- 🌱 Currently building real-world data analytics projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Data Visualization
+- Data Cleaning
+- Statistics
+
+---
+
+## 🎯 Current Goals
+
+- Build a strong Data Analytics portfolio
+- Contribute to GitHub regularly
+- Gain internship experience
+- Grow as a Data Analyst
+
+---
+
+## 📫 Connect With Me
+- LinkedIn:https://www.linkedin.com/in/sagar-nayak-b4a85a1b8
+- Email:nayaksagar9080@gmail.com
+
+⭐ Thanks for visiting my profile!
