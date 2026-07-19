@@ -8,7 +8,16 @@
 - 📈 Passionate about Data Analytics & Business Intelligence
 - 🌱 Passionate about transforming data into meaningful insights through analytics, visualization, and problem-solving.
 
----
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ## 🛠️ Skills
 
