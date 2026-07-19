@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills
 
- Python
+- Python
 - SQL
 - Microsoft Excel
 - Power BI
