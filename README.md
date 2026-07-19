@@ -19,6 +19,17 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alpha00045&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha00045&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🛠️ Skills
 
 - Python
@@ -41,7 +52,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn:https://www.linkedin.com/in/sagar-nayak-b4a85a1b8
-- Email:nayaksagar9080@gmail.com
+- LinkedIn : https://www.linkedin.com/in/sagar-nayak-b4a85a1b8
+- Email : nayaksagar9080@gmail.com
 
 ⭐ Thanks for visiting my profile!
