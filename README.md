@@ -24,8 +24,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alpha00045&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha00045&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alpha00045&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha00045&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alpha00045&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
