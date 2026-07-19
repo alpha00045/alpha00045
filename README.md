@@ -6,13 +6,13 @@
 - 📊 Aspiring Data Analyst
 - 💻 Learning Python, SQL, Excel & Power BI
 - 📈 Passionate about Data Analytics & Business Intelligence
-- 🌱 Currently building real-world data analytics projects
+- 🌱 Passionate about transforming data into meaningful insights through analytics, visualization, and problem-solving.
 
 ---
 
 ## 🛠️ Skills
 
-- Python
+ Python
 - SQL
 - Microsoft Excel
 - Power BI
