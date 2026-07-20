@@ -42,6 +42,14 @@
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alpha00045&style=for-the-badge"/>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
