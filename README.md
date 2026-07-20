@@ -42,10 +42,10 @@
 
 ---
 
-## 👀 Profile Views
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alpha00045&style=for-the-badge"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha00045&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
