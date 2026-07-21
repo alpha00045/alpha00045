@@ -42,6 +42,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=alpha00045&theme=tokyonight)](https://git.io/streak-stats)
+
 ## 🛠️ Skills
 
 - Python
