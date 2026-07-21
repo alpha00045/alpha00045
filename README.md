@@ -35,14 +35,12 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=alpha00045&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://streak-stats.demolab.com?user=alpha00045&theme=tokyonight&hide_border=true&cache_seconds=0"
     alt="GitHub Streak"
   />
 </p>
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=alpha00045&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🛠️ Skills
 
