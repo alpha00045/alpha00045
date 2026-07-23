@@ -16,8 +16,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
 ## 👋 About Me
 
 - 🎓 MCA Student (2027)
@@ -26,7 +24,7 @@
 - 📈 Passionate about Data Analytics & Business Intelligence
 - 🌱 Passionate about transforming data into meaningful insights through analytics, visualization, and problem-solving.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠 Tech Stack
 
@@ -41,7 +39,7 @@
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Activity Graph
 
@@ -49,7 +47,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha00045&theme=tokyo-night&hide_border=true&cache_seconds=0"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔥 GitHub Streak
 
@@ -60,7 +58,7 @@
   />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Skills
 
@@ -72,7 +70,7 @@
 - Data Cleaning
 - Statistics
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Current Goals
 
@@ -81,7 +79,7 @@
 - Gain internship experience
 - Grow as a Data Analyst
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
 
@@ -101,7 +99,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 Quote of the Day
 
@@ -111,7 +109,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💖 Thanks for Visiting!
 
