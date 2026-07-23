@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=alpha00045&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=2563eb&label=FOLLOWERS&logo=github" />
+  <img src="https://img.shields.io/github/followers/alpha00045?style=for-the-badge&color=2563eb&label=FOLLOWERS&logo=github" />
   &nbsp;
   <img src="https://img.shields.io/badge/OPEN%20TO-Internships-22c55e?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
