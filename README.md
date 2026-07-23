@@ -24,15 +24,22 @@
 - 📈 Passionate about Data Analytics & Business Intelligence
 - 🌱 Passionate about transforming data into meaningful insights through analytics, visualization, and problem-solving.
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,git,github,vscode" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux" />
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
 </p>
 
 ---
