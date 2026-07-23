@@ -79,10 +79,44 @@
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn : https://www.linkedin.com/in/sagar-nayak-b4a85a1b8
-- Email : nayaksagar9080@gmail.com
+## 🌐 Connect With Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=150&section=footer"/>
+<p align="center">
 
-⭐ Thanks for visiting my profile!
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sagar-nayak-b4a85a1b8">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nayaksagar9080@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alpha00045">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+<p align="center">
+
+> *"Code. Learn. Build. Improve. Repeat."* 🚀
+
+</p>
+
+---
+
+## 💖 Thanks for Visiting!
+
+<p align="center">
+
+If you like my work, consider ⭐ starring my repositories and following my GitHub profile.
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=150&section=footer"/>
+</p>
