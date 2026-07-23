@@ -85,7 +85,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/sagar-nayak-b4a85a1b8">
+<a href="https://linkedin.com/sagar-nayak-b4a85a1b8">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
