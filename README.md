@@ -27,19 +27,14 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,git,github,vscode" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux" />
-
+      <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mysql,git,github,vscode" /><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux" />
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -59,17 +54,6 @@
     src="https://streak-stats.demolab.com?user=alpha00045&theme=tokyonight&hide_border=true&cache_seconds=0"
     alt="GitHub Streak"
   />
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpha00045&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha00045&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
