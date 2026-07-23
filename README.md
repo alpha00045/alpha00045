@@ -16,6 +16,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
+
 ## 👋 About Me
 
 - 🎓 MCA Student (2027)
@@ -23,6 +25,8 @@
 - 💻 Learning Python, SQL, Excel & Power BI
 - 📈 Passionate about Data Analytics & Business Intelligence
 - 🌱 Passionate about transforming data into meaningful insights through analytics, visualization, and problem-solving.
+
+---
 
 ## 🛠 Tech Stack
 
@@ -117,6 +121,4 @@ If you like my work, consider ⭐ starring my repositories and following my GitH
 
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=150&section=footer"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=150&section=footer"/>
