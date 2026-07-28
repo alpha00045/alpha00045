@@ -52,7 +52,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alpha00045&theme=tokyonight&hide_border=true"
+  <img src="https://streak-stats.demolab.com?user=alpha00045&theme=tokyonight&hide_border=true&cache_seconds=0"
   alt="GitHub Streak" 
   />
 </p>
