@@ -43,9 +43,9 @@
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha00045&theme=tokyo-night&hide_border=true&cache_seconds=0"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alpha00045&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://streak-stats.demolab.com?user=alpha00045&theme=tokyonight&hide_border=true" height="180"/> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha00045&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
