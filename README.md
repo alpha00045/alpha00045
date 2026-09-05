@@ -44,7 +44,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha00045&theme=tokyo-night&hide_border=true"/>
+  <img src="https://YOUR-ACTIVITY-GRAPH.vercel.app/graph?username=alpha00045&theme=tokyo-night&hide_border=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
